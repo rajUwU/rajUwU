@@ -3,3 +3,4 @@
 <!--START_SECTION:waka-->
 ![Rajat's Waketime](https://github-readme-stats.vercel.app/api/wakatime?username=rajUwU&theme=radical)
 <!--END_SECTION:waka-->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=rajUwU.rajUwU)
